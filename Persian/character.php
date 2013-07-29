@@ -12,10 +12,10 @@
  *	will automatically look in that folder too.
  */
 
-$lang['unknown'] = "Unknown";
-$lang['doesnt_exist'] = "Character doesn't exist";
-$lang['doesnt_exist_long'] = "The requested character does not exist.";
-$lang['view_profile'] = "View profile";
+$lang['unknown'] = "ناشناس";
+$lang['doesnt_exist'] = "هیرو مورد نظر یافت نشد";
+$lang['doesnt_exist_long'] = "هیرو مورد نظر یافت نشد";
+$lang['view_profile'] = "نمایش پروفایل";
 $lang['attributes'] = "Attributes";
 $lang['pvp'] = "Player vs Player";
 $lang['str'] = "Strength";

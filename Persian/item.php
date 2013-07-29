@@ -12,11 +12,11 @@
  *	will automatically look in that folder too.
  */
 
-$lang['loading'] = "Loading...";
+$lang['loading'] = "در حال بارگذاری";
 $lang['no_item'] = "No item or realm specified!";
-$lang['view_item'] = "View item";
-$lang['armory'] = "Armory";
-$lang['unknown_item'] = "Unknown item";
+$lang['view_item'] = "نمایش آیتم";
+$lang['armory'] = "آرموری";
+$lang['unknown_item'] = "آیتم ناشناس";
 $lang['meta'] = "Meta Socket";
 $lang['red'] = "Red Socket";
 $lang['yellow'] = "Yellow Socket";

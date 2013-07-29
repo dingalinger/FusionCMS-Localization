@@ -12,24 +12,24 @@
  *	will automatically look in that folder too.
  */
 
-$lang['search_title'] = "Search";
-$lang['search_headline'] = "Armory search";
+$lang['search_title'] = "جستجو";
+$lang['search_headline'] = "جستجو در آرموری";
 $lang['search_placeholder'] = "Search characters, items and guilds...";
-$lang['search_button'] = "Search";
-$lang['search_too_short'] = "Search string must be longer than 2 characters!";
+$lang['search_button'] = "جستجو";
+$lang['search_too_short'] = "کلمه مورد نظر باید حداقل دارای 3 حرف باشد";
 $lang['characters'] = "Characters";
 $lang['items'] = "Items";
 $lang['guilds'] = "Guilds";
-$lang['no_characters_found'] = "No characters found";
-$lang['no_items_found'] = "No items found";
-$lang['no_guilds_found'] = "No guilds found";
-$lang['name'] = "Name";
-$lang['members'] = "Members";
-$lang['owner'] = "Owner";
+$lang['no_characters_found'] = "هیرویی با این نام یافت نشد";
+$lang['no_items_found'] = "آیتمی با این نام یافت نشد.";
+$lang['no_guilds_found'] = "گیلدی با این نام یافت نشد.";
+$lang['name'] = "نام";
+$lang['members'] = "اعضا";
+$lang['owner'] = "رئیس";
 $lang['realm'] = "Realm";
 $lang['level'] = "Level";
 $lang['required'] = "Required";
 $lang['type'] = "Type";
-$lang['view_character_profile'] = "View character profile";
-$lang['cant_be_empty'] = "Search field can't be empty!";
+$lang['view_character_profile'] = "نمایش پروفایل هیرو";
+$lang['cant_be_empty'] = "باید چیزی باشد که جستجو کرد.";
 $lang['misc'] = "Miscellaneous";
